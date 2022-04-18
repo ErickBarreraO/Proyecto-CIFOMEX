@@ -34,6 +34,6 @@ Nota: Para todo el código los datos que estén "entre comillas" son los que deb
 
 `plot(c("nombre2"$cscore),rep(0,"número de columnas"),type=”n”,xlim=c("-2,2"), main=”Título de la Gráfica”)`
 
-`text(c("nombre2"$rscore),rep(0,"número de filas"), labels=c(“nombres de una de las variables dentro del grafico), col=”firebrick2)`
+`text(c("nombre2"$rscore),rep(0,"número de filas"), labels=c(“nombres de una de las variables dentro del grafico), col=" "firebrick2" ")`
 
-`text(c("nombre2"$cscore),rep(0,"número de columnas"), labels=c(“nombres de las otras variables dentro del grafico), col=”mediumblue”)`
+`text(c("nombre2"$cscore),rep(0,"número de columnas"), labels=c(“nombres de las otras variables dentro del grafico), col=" ”mediumblue” ")`
