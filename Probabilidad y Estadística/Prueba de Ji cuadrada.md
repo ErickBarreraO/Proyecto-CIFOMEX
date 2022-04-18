@@ -1,6 +1,6 @@
 ## Prueba de Ji cuadrada :pencil2:
 
-La prueba de Ji cuadrada es una pruena de hipótesis propuesta por Pearson que permite contrastar la hipótesis de que los dos criterios de clasificación utilizados (las dos variables categórcias) son independientes.
+La prueba de Ji cuadrada es una prueba de hipótesis propuesta por Pearson que permite contrastar la hipótesis de que los dos criterios de clasificación utilizados (las dos variables categórcias) son independientes.
 
 Para ello las frecuencias observadas (las frecuencias de hecho obtenidas) con las frecuencias esperadas (las frecuencias que teóricamente debería haber en cada casilla si los dos criterios de clasificación fueran independientes)
 
